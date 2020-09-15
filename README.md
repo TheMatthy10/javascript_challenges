@@ -1,2 +1,2 @@
 # javascript_challenges
-JavaScript challenges from freeCodeCamo
+JavaScript challenges from freeCodeCamp
